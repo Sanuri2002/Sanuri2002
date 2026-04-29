@@ -1,4 +1,4 @@
-# Hi 👋 I'm Gageesha Sanuri
+# Hi 👋 I'm Gageesha Ahangamage
 
 🎓 Computer Science Undergraduate  
 💻 Passionate about Full Stack Development  
